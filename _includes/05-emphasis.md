@@ -1,3 +1,2 @@
 **Incredible India**
-*Iam proud to be an Indian*
-
+*Iam proud to be an Indian.*
