@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Incredible India**
+*Iam proud to be an Indian*
+_Iam happy to be a part of **Incredible India**_
