@@ -1,3 +1,7 @@
-**Incredible India**
-*Iam proud to be an Indian.*
-_I have a **Samsung** phone_
+*My name is Vaishnavi*
+_My name is Vaishnavi_
+
+**Vaishnavi**
+__Vaishnavi__
+
+_my name is **Vaishnavi** Hakki_
